@@ -1,6 +1,6 @@
 === Tweet Button for Twitter ===
 Contributors: miicros
-Tags: twitter,button,tweet,tweets
+Tags: twitter,button,tweet,tweets,widget,post,plugin,posts,admin,sidebar,comments,images,twitter,page,google,links,image,ajax,pages,posts,button,shortcode
 Requires at least: 2.8.0
 Tested up to: 3.2.1
 Stable tag: 1.0.0
