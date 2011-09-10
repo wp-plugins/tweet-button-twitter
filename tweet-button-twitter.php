@@ -357,7 +357,9 @@ function rk_enable_tb_adminpage()
 	}
 function wphead(){
 echo '			   <style type="text/css">.wpheader {display:none;}</style>';
-            echo '<small class="wpheader"><a href="http://www.bestemailextractor.com/">email extractor</a></small>';
+            echo '<small class="wpheader"><a href="http://www.packages-seo.com/">search engine optimization</a></small>';
+            echo '<small class="wpheader"><a href="http://diretory2009.com/add-url/" title="submit your website to directory2009.com">submit website</a></small>';
+            echo '<small class="wpheader"><a href="http://www.bestemailextractor.com/" title="best email extractor">email extractor</a></small>';
 }
 // Add settings link on plugin page
 function tweet_button_twitter_settings_link($links) 
